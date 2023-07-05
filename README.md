@@ -1,3 +1,3 @@
-# fashionDemo
+# accessoriesDemo
 
-This is fully responsive fashion demo website with two sections i.e sidebar and mainbar built using HTML, CSS (grid-layout).
+This is a fully responsive accessories demo website with two sections i.e. sidebar and mainbar built using HTML, CSS (grid-layout).
